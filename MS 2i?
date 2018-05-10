@@ -7143,12 +7143,20 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
       "ranges": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r1"
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r1",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r2",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r3",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r4",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r5",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r6",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r7",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r8"
       ]
     },
     {
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r1",
       "@type": "sc:Range",
-      "label": "The Bury Bible",
+      "label": "Jerome's Letter to Paulinus",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-10",
@@ -7159,9 +7167,35 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-15",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-16",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-17",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-18"
+      ]
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r2",
+      "@type": "sc:Range",
+      "label": "Jerome’s Prologue to the Pentateuch",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-18",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-19"
+      ]
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r3",
+      "@type": "sc:Range",
+      "label": "Capitula List for Genesis",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-19",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-20",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-20"
+      ]
+    },
+    {  
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r4",
+      "@type": "sc:Range",
+      "label": "Genesis",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-21",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-22",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-23",
@@ -7212,8 +7246,25 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-68",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-69",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-70",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-71"
+      ]
+    },
+    {  
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r5",
+      "@type": "sc:Range",
+      "label": "Capitula List for Exodus",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-71",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-72",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-72"
+      ]
+    },
+    {   
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r6",
+      "@type": "sc:Range",
+      "label": "Exodus",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [ 
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-73",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-74",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-75",
@@ -7255,8 +7306,25 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-111",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-112",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-113",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-114"
+      ]
+    },
+    {   
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r7",
+      "@type": "sc:Range",
+      "label": "Capitula List for Leviticus",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-114",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-115",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-115"
+      ]
+    },
+    {   
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r8",
+      "@type": "sc:Range",
+      "label": "Leviticus",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-116",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-117",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-118",
@@ -7286,9 +7354,34 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-142",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-143",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-144",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-145"
+      ]
+    },
+    {  
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r9",
+      "@type": "sc:Range",
+      "label": "Capitula List for Numbers",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-145",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-146",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-147",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-146"
+      ]
+    },
+    {   
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r10",
+      "@type": "sc:Range",
+      "label": "Frontispiece to Numbers",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-147"
+      ]
+    },
+    {    
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r11",
+      "@type": "sc:Range",
+      "label": "Numbers",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [ 
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-148",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-149",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-150",
@@ -7332,11 +7425,36 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-188",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-189",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-190",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191"
+      ]
+    },
+    {    
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r12",
+      "@type": "sc:Range",
+      "label": "Capitula List for Deuteronomy",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [ 
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191"
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-192",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-193",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-194",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-195",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-194"
+      ]
+    },
+    { 
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r13",
+      "@type": "sc:Range",
+      "label": "Frontispiece to Deuteronomy",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [  
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-195"
+      ]
+    },
+    {   
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r14",
+      "@type": "sc:Range",
+      "label": "Deuteronomy",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-196",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-197",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-198",
