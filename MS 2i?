@@ -7142,7 +7142,6 @@
       "viewingHint": "top",
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
       "ranges": [
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r1"
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r1",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r2",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r3",
@@ -7150,13 +7149,22 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r5",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r6",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r7",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r8"
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r8",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r9",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r10",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r11",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r12",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r13",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r14",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r15",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r16",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r17"
       ]
     },
     {
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r1",
       "@type": "sc:Range",
-      "label": "Jerome's Letter to Paulinus",
+      "label": "Jerome's Epistle to Paulinus",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-10",
@@ -7434,7 +7442,7 @@
       "label": "Capitula List for Deuteronomy",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
       "canvases": [ 
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191"
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-192",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-193",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-194"
@@ -7493,10 +7501,35 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-231",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-232",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-233",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-234"
+      ]
+    },
+    {   
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r15",
+      "@type": "sc:Range",
+      "label": "Jerome's Two Prologues to Joshua",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-234",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-235"
+      ]
+    },
+    {  
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r16",
+      "@type": "sc:Range",
+      "label": "Capitula List for Joshua",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [ 
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-235",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-236",
-        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-237",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-236"
+      ]
+    },
+    {  
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r17",
+      "@type": "sc:Range",
+      "label": "Joshua (incomplete), concluding with 'Moyses famulus domini et filii israel'",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/range/r0",
+      "canvases": [ 
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-238",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-239",
         "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-240",
