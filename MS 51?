@@ -7867,7 +7867,7 @@
     {
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/range/r3",
       "@type": "sc:Range",
-      "label": "Eusebius of Caesarea, Chronici canones, transl. by Jerome (continuation to 455)",
+      "label": "Chronica Gallica ad annum CCCCLII with excerpts of Prosper's Epitoma Chronicon (continuation to 455)",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/range/r0",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-119",
@@ -7880,7 +7880,7 @@
     {
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/range/r4",
       "@type": "sc:Range",
-      "label": "Sigebert of Gembloux OSB, Chronica (continued by Ralph de Diceto, Abbreuiationes chronicorum (excerpt 1099-1113))",
+      "label": "Sigebert of Gembloux OSB with continuation by Anselm of Gembloux, Chronica (continuation to 1113)",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/range/r0",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-124",
