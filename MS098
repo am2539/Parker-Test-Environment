@@ -1,0 +1,1203 @@
+<?xml version="1.0"?>
+<contentMetadata objectId="rv963gj5282" type="book">
+  <resource id="rv963gj5282_1" sequence="1" type="page">
+    <label>Page 1</label>
+    <file id="098_001_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3500476">
+      <checksum type="md5">d10d04830e66cae1cfb31051520f8317</checksum>
+      <checksum type="sha1">0d881bd0747a0f4cc6a02239ffccb26e3e870416</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_2" sequence="2" type="page">
+    <label>Page 2</label>
+    <file id="098_001_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3099407">
+      <checksum type="md5">2ed6ba569254b8b4364b93e900900cfb</checksum>
+      <checksum type="sha1">88455e52f4e5cfd7fa12222d4f92a93902fac5be</checksum>
+      <imageData height="5428" width="6256"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_3" sequence="3" type="page">
+    <label>Page 3</label>
+    <file id="098_001_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2620446">
+      <checksum type="md5">cddc973fa97648a07308b50265151864</checksum>
+      <checksum type="sha1">0b9145461ba3930b25359f8a11555b292bf61cce</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_4" sequence="4" type="page">
+    <label>Page 4</label>
+    <file id="098_001_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="1625027">
+      <checksum type="md5">da5636f12fa221ca57a86a77f34a65bf</checksum>
+      <checksum type="sha1">4cc53d64e25a9e9b59f2dbd9cc0e97d6cf73e88f</checksum>
+      <imageData height="5428" width="6136"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_5" sequence="5" type="page">
+    <label>Page 5</label>
+    <file id="098_002_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4046085">
+      <checksum type="md5">a40b98e2fcf2b575c6217864c5d611b4</checksum>
+      <checksum type="sha1">af9361ca085cd654007c7e52bdb2ccc43849c996</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_6" sequence="6" type="page">
+    <label>Page 6</label>
+    <file id="098_002_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="5612064">
+      <checksum type="md5">803437b887857d245a8094412943defd</checksum>
+      <checksum type="sha1">68a6be7e382fac4791687b200c48fdfe38a1db92</checksum>
+      <imageData height="5428" width="6336"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_7" sequence="7" type="page">
+    <label>Page 7</label>
+    <file id="098_002_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3292282">
+      <checksum type="md5">1226b89ac90f907854cf4a6c9bccdd9d</checksum>
+      <checksum type="sha1">3244203f5ddb5bdea142bbf961953ca25dc0b954</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_8" sequence="8" type="page">
+    <label>Page 8</label>
+    <file id="098_002_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4175784">
+      <checksum type="md5">279b987a4b62c7b30a815b4757caf599</checksum>
+      <checksum type="sha1">7d6fb83773b436e0b3d51507a9068b9cab98adc0</checksum>
+      <imageData height="5428" width="6256"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_9" sequence="9" type="page">
+    <label>Page 9</label>
+    <file id="098_003_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4474091">
+      <checksum type="md5">5695617a95267bd8f5dbec507edc4648</checksum>
+      <checksum type="sha1">a1d8f28598d88b7486760d81977f263e0002a493</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_10" sequence="10" type="page">
+    <label>Page 10</label>
+    <file id="098_003_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="5065016">
+      <checksum type="md5">224adc57b97fe537d41b889b738fd0c6</checksum>
+      <checksum type="sha1">90db9d9867b314baa6fd09110079515cb17b8524</checksum>
+      <imageData height="5428" width="6632"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_11" sequence="11" type="page">
+    <label>Page 11</label>
+    <file id="098_003_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2760873">
+      <checksum type="md5">0ca2b672bdc636f7e4bf9e8152148ada</checksum>
+      <checksum type="sha1">05c574c7f295297a0a3377790f5890ba8e3d95c6</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_12" sequence="12" type="page">
+    <label>Page 12</label>
+    <file id="098_003_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3141505">
+      <checksum type="md5">a325fa0ce8679ed4eba9cc843a592f8c</checksum>
+      <checksum type="sha1">417e35c536615696a285b08cfbb5a5d318f622f3</checksum>
+      <imageData height="5428" width="6464"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_13" sequence="13" type="page">
+    <label>Page 13</label>
+    <file id="098_004_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3513441">
+      <checksum type="md5">92495f9908c7b4aed021154b69995368</checksum>
+      <checksum type="sha1">36d537e78bc7b658d72df358abc2f565e4ba6f51</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_14" sequence="14" type="page">
+    <label>Page 14</label>
+    <file id="098_004_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3989275">
+      <checksum type="md5">f724b718efd83ef37d75e1b44a233ecb</checksum>
+      <checksum type="sha1">fb359e18d05c7d3ae958842e046d3d22f3a0fa82</checksum>
+      <imageData height="5428" width="6488"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_15" sequence="15" type="page">
+    <label>Page 15</label>
+    <file id="098_004_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3012084">
+      <checksum type="md5">a98d3db42da96ba5f2a017ee4e606266</checksum>
+      <checksum type="sha1">dba6ff627a6563607bac3cf2e024cf30dd9fde51</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_16" sequence="16" type="page">
+    <label>Page 16</label>
+    <file id="098_004_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3803073">
+      <checksum type="md5">e8c0304a48d6a2df0a9de6f0099c8876</checksum>
+      <checksum type="sha1">c38918e0ad75ec2d32a64f7e92d33880d94e609c</checksum>
+      <imageData height="5428" width="6381"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_17" sequence="17" type="page">
+    <label>Page 17</label>
+    <file id="098_005_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3299787">
+      <checksum type="md5">1c8523230d9bab712ce2e10f53cc0ded</checksum>
+      <checksum type="sha1">6d6557de20895de7b6f47293f90c882bafe8f568</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_18" sequence="18" type="page">
+    <label>Page 18</label>
+    <file id="098_005_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3407860">
+      <checksum type="md5">c75e326f0f379b87c14f0a2721ea303b</checksum>
+      <checksum type="sha1">09759c8e6f9dc4438d46dc76070ed848d473e6b9</checksum>
+      <imageData height="5428" width="6728"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_19" sequence="19" type="page">
+    <label>Page 19</label>
+    <file id="098_005_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2381498">
+      <checksum type="md5">7351143da0e9b6d2538dd50e0d744d72</checksum>
+      <checksum type="sha1">20326b5dfba1e9270a4f3921e855017f35e6b67f</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_20" sequence="20" type="page">
+    <label>Page 20</label>
+    <file id="098_005_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2254366">
+      <checksum type="md5">268147cb5823c5105253d47add28413e</checksum>
+      <checksum type="sha1">898e6699d69c67d16018a2e92702515d60134dd3</checksum>
+      <imageData height="5428" width="6456"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_21" sequence="21" type="page">
+    <label>Page 21</label>
+    <file id="098_006_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3830286">
+      <checksum type="md5">bf30fba33f2b734db6b5e6cf943d4a43</checksum>
+      <checksum type="sha1">0d23f89d1858070afc8b3b345a45655873c7b7f7</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_22" sequence="22" type="page">
+    <label>Page 22</label>
+    <file id="098_006_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3962873">
+      <checksum type="md5">82d7182d2d772097101ff04ca437ee6f</checksum>
+      <checksum type="sha1">09efe8582c084b6646a27544e041b2c0869e706f</checksum>
+      <imageData height="5428" width="6616"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_23" sequence="23" type="page">
+    <label>Page 23</label>
+    <file id="098_006_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2343742">
+      <checksum type="md5">3455f2619b1eb4731215ee496b28f1a3</checksum>
+      <checksum type="sha1">46e1ec926682fb388423cda5ceecc69c23940625</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_24" sequence="24" type="page">
+    <label>Page 24</label>
+    <file id="098_006_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2332577">
+      <checksum type="md5">ca807205f21652441108664f4e94edaf</checksum>
+      <checksum type="sha1">3c5ff0642f21e62f796778e4d206122e1b1b066e</checksum>
+      <imageData height="5428" width="6416"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_25" sequence="25" type="page">
+    <label>Page 25</label>
+    <file id="098_007_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3315384">
+      <checksum type="md5">aed4e45e99924dada9be92cee6d2fa96</checksum>
+      <checksum type="sha1">14b9b1bd8f6087d05950665641e9d84eabc1d9a3</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_26" sequence="26" type="page">
+    <label>Page 26</label>
+    <file id="098_007_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3646661">
+      <checksum type="md5">9aff0a849af09d14015e3ec7ad7f6321</checksum>
+      <checksum type="sha1">0350814eeffe12723efabbf06c5ac7d0c2e15192</checksum>
+      <imageData height="5428" width="6632"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_27" sequence="27" type="page">
+    <label>Page 27</label>
+    <file id="098_007_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2605672">
+      <checksum type="md5">8b022d3319df8d5f44882e5688c82018</checksum>
+      <checksum type="sha1">9d7c24ecf082c468ed76674bbc96d129072cda86</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_28" sequence="28" type="page">
+    <label>Page 28</label>
+    <file id="098_007_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2509619">
+      <checksum type="md5">cead1d255273dfa52febea2fb2b4b4df</checksum>
+      <checksum type="sha1">0959ed4ba12c7c401a8698e854c52f99305c9e62</checksum>
+      <imageData height="5428" width="6336"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_29" sequence="29" type="page">
+    <label>Page 29</label>
+    <file id="098_008_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3059695">
+      <checksum type="md5">611975d5d38094a2d99ef871adde6c83</checksum>
+      <checksum type="sha1">907f6159b890e30d5eab46f989905a7b69417783</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_30" sequence="30" type="page">
+    <label>Page 30</label>
+    <file id="098_008_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3170930">
+      <checksum type="md5">fad5f650e3debb93332d96480d552dac</checksum>
+      <checksum type="sha1">b5a55fc8d7780528702ed7bb1058d2f2a0cecc54</checksum>
+      <imageData height="5428" width="6605"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_31" sequence="31" type="page">
+    <label>Page 31</label>
+    <file id="098_008_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3995244">
+      <checksum type="md5">3c87c3a0e55df520740d118561daba6c</checksum>
+      <checksum type="sha1">ad985182666fcc90b4879b235501fc38bad7af16</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_32" sequence="32" type="page">
+    <label>Page 32</label>
+    <file id="098_008_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3963535">
+      <checksum type="md5">feaeaa2bffa37f21951c4ef603af327b</checksum>
+      <checksum type="sha1">29f412decb42bb259dbcf3a7cb534e0b94df2801</checksum>
+      <imageData height="5428" width="6496"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_33" sequence="33" type="page">
+    <label>Page 33</label>
+    <file id="098_009_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2564257">
+      <checksum type="md5">5fb947130a9dc8225b1a0b8ebfb521a6</checksum>
+      <checksum type="sha1">31d3a1737147ee9d68d876c1476fd1d9b97fccf3</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_34" sequence="34" type="page">
+    <label>Page 34</label>
+    <file id="098_009_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2498275">
+      <checksum type="md5">e9eae0aa8c2921af39e82b2380b3a762</checksum>
+      <checksum type="sha1">4835f41321589238821d72d779a9156457919b24</checksum>
+      <imageData height="5428" width="6648"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_35" sequence="35" type="page">
+    <label>Page 35</label>
+    <file id="098_009_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4184075">
+      <checksum type="md5">d959984a762c12ba0f7e4df074c96d27</checksum>
+      <checksum type="sha1">6e012bb6cdc52791dc347a38f6b18a9bc4e66ab2</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_36" sequence="36" type="page">
+    <label>Page 36</label>
+    <file id="098_009_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4291930">
+      <checksum type="md5">218469c1097d8ed4eec5715095bc8ffd</checksum>
+      <checksum type="sha1">f3bb97f4af826e010df0996fdd3fe65d5527f00c</checksum>
+      <imageData height="5428" width="6480"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_37" sequence="37" type="page">
+    <label>Page 37</label>
+    <file id="098_010_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2758266">
+      <checksum type="md5">a7b46c760805e2b60ac3a811c8877735</checksum>
+      <checksum type="sha1">3227eac4bdcd8d60ce4d4ee90ab578104165d8fd</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_38" sequence="38" type="page">
+    <label>Page 38</label>
+    <file id="098_010_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2715892">
+      <checksum type="md5">ecd23d40eb0f74c190512c406de0cfa3</checksum>
+      <checksum type="sha1">be2f06b365cf484922f21667bbb78940c0d9c499</checksum>
+      <imageData height="5428" width="6544"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_39" sequence="39" type="page">
+    <label>Page 39</label>
+    <file id="098_010_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2769435">
+      <checksum type="md5">645af3bda628af2120efb504382c5c58</checksum>
+      <checksum type="sha1">b28fc3084b29dc9a51ff8ae2a35e34b458468ef0</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_40" sequence="40" type="page">
+    <label>Page 40</label>
+    <file id="098_010_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2437383">
+      <checksum type="md5">39451620a23603bfc172adc8dadd19a7</checksum>
+      <checksum type="sha1">17a2122da584d2598dcbddac069e6f471ec3d0f5</checksum>
+      <imageData height="5428" width="6560"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_41" sequence="41" type="page">
+    <label>Page 41</label>
+    <file id="098_011_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3133521">
+      <checksum type="md5">403c3157095a0f08b78e51e888973c86</checksum>
+      <checksum type="sha1">b2dde7626c2f85296c848158b2a94185d49ab3ea</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_42" sequence="42" type="page">
+    <label>Page 42</label>
+    <file id="098_011_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3231755">
+      <checksum type="md5">3be49d5499159045477bbfb1c6d36dc2</checksum>
+      <checksum type="sha1">47cfa2be082e2fb5b84bdd01811339b46680c1ab</checksum>
+      <imageData height="5428" width="6496"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_43" sequence="43" type="page">
+    <label>Page 43</label>
+    <file id="098_011_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3243360">
+      <checksum type="md5">efb0718ebb2a5f4975caace3d9a278fa</checksum>
+      <checksum type="sha1">9124c047763e41e44d8cf76d0ff5f35a900385c4</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_44" sequence="44" type="page">
+    <label>Page 44</label>
+    <file id="098_011_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3399123">
+      <checksum type="md5">86eff518ebdcb4d1c4a98b9f5ffb30cd</checksum>
+      <checksum type="sha1">022cec92c1d0a19d10e82f38029df6277516b342</checksum>
+      <imageData height="5428" width="6400"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_45" sequence="45" type="page">
+    <label>Page 45</label>
+    <file id="098_012_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2544824">
+      <checksum type="md5">9bbac61fb6fab59570da0a3520e9b140</checksum>
+      <checksum type="sha1">586994b9c6981146b60c7a94f24e0ae671faadef</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_46" sequence="46" type="page">
+    <label>Page 46</label>
+    <file id="098_012_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2896415">
+      <checksum type="md5">8d8a42f1a528350fb202dae6d8f42031</checksum>
+      <checksum type="sha1">3be57f10aa4c049cc28ef30078cf2e283abf0948</checksum>
+      <imageData height="5428" width="6464"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_47" sequence="47" type="page">
+    <label>Page 47</label>
+    <file id="098_012_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4362802">
+      <checksum type="md5">9a4990192399d088ce6b1e5dbdb0ed7b</checksum>
+      <checksum type="sha1">8233c79f61e5127b5cf648853be7c64c719e983c</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_48" sequence="48" type="page">
+    <label>Page 48</label>
+    <file id="098_012_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4570150">
+      <checksum type="md5">9ec48f61d2b0faddcfa2209f9bba7b4d</checksum>
+      <checksum type="sha1">5d6a20fa5e43ba0bbca7c32e3b3d3aa991362ca2</checksum>
+      <imageData height="5428" width="6427"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_49" sequence="49" type="page">
+    <label>Page 49</label>
+    <file id="098_013_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3352317">
+      <checksum type="md5">c008a0ddb8382762118549400d1d3f45</checksum>
+      <checksum type="sha1">7ea2887f31edb1030f570afead5860f2aac61896</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_50" sequence="50" type="page">
+    <label>Page 50</label>
+    <file id="098_013_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3323271">
+      <checksum type="md5">671f5409f1aa02aaa195ab16a31d693c</checksum>
+      <checksum type="sha1">7a0302aae563c347269d207bf7532038f9bab51c</checksum>
+      <imageData height="5428" width="6504"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_51" sequence="51" type="page">
+    <label>Page 51</label>
+    <file id="098_013_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2965042">
+      <checksum type="md5">2e75563149b465aa109888760a80057b</checksum>
+      <checksum type="sha1">1f669d1c5a48e2b465295c4119681e7448662b51</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_52" sequence="52" type="page">
+    <label>Page 52</label>
+    <file id="098_013_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2782054">
+      <checksum type="md5">f17c263725b5fa1a8173c7ae5b854311</checksum>
+      <checksum type="sha1">b9997beaeaddb1723027744c79ff45f7592a6b17</checksum>
+      <imageData height="5428" width="6384"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_53" sequence="53" type="page">
+    <label>Page 53</label>
+    <file id="098_014_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3620830">
+      <checksum type="md5">ba0163b8834311994aeebd8fbb53bca5</checksum>
+      <checksum type="sha1">05b2cf4138ef349983e6340fc027b78808bce28a</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_54" sequence="54" type="page">
+    <label>Page 54</label>
+    <file id="098_014_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3436161">
+      <checksum type="md5">27e26b4bb5c4996d16241c60ef4fd242</checksum>
+      <checksum type="sha1">8b47b7a3af11a9f0dbfd0cacda1b28336584f72c</checksum>
+      <imageData height="5428" width="6528"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_55" sequence="55" type="page">
+    <label>Page 55</label>
+    <file id="098_014_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2546845">
+      <checksum type="md5">a4b8d3f75b4d6f22b5d38bd4cf8a0537</checksum>
+      <checksum type="sha1">98fab3ac1c72e8079315fe3ef52e8d413b9abf93</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_56" sequence="56" type="page">
+    <label>Page 56</label>
+    <file id="098_014_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2485741">
+      <checksum type="md5">b2f8b245bd9498d960804285c7b34bc5</checksum>
+      <checksum type="sha1">c0fd7f61f7dca3cf66f661d0672cd25404942fcb</checksum>
+      <imageData height="5428" width="6464"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_57" sequence="57" type="page">
+    <label>Page 57</label>
+    <file id="098_015_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4354875">
+      <checksum type="md5">b277816b8586b1e185e185fad0d38ba3</checksum>
+      <checksum type="sha1">3a6e0bd65965abb2da1e187d37de8e342d25c236</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_58" sequence="58" type="page">
+    <label>Page 58</label>
+    <file id="098_015_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4576885">
+      <checksum type="md5">2c1ce32c1028ba5ab4b92a4402a803a6</checksum>
+      <checksum type="sha1">27bf4e4cd1dfd8986bc0f94cc44acb054af29c16</checksum>
+      <imageData height="5428" width="6584"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_59" sequence="59" type="page">
+    <label>Page 59</label>
+    <file id="098_015_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2439805">
+      <checksum type="md5">f38f7f5d52da89e3f4fdbaaca7c4a381</checksum>
+      <checksum type="sha1">238e259cabc6a611ac8f20ed213f536ffa9f9b6f</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_60" sequence="60" type="page">
+    <label>Page 60</label>
+    <file id="098_015_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2575033">
+      <checksum type="md5">b2eed64428d33eb26b67a280eb60eb11</checksum>
+      <checksum type="sha1">47cc30f99dacd14aa5410055e533da6d8d44eac8</checksum>
+      <imageData height="5428" width="6456"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_61" sequence="61" type="page">
+    <label>Page 61</label>
+    <file id="098_016_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3173392">
+      <checksum type="md5">ff970e0667e2e389bace15cc963cb8bc</checksum>
+      <checksum type="sha1">3ff977db13300aa88f00cdebad40de6ae49c4a1e</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_62" sequence="62" type="page">
+    <label>Page 62</label>
+    <file id="098_016_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3407883">
+      <checksum type="md5">8f4230c14d4d5d7e6c97f5ef10ec65f4</checksum>
+      <checksum type="sha1">c2b6cb789e3c406200cd003acf6ba57c490873e2</checksum>
+      <imageData height="5428" width="6480"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_63" sequence="63" type="page">
+    <label>Page 63</label>
+    <file id="098_016_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2379450">
+      <checksum type="md5">f6c58f7748561ef2a3a97d658cd4cd53</checksum>
+      <checksum type="sha1">636b6d52f53ef43a5d1861b57abe6ef018bd7bc3</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_64" sequence="64" type="page">
+    <label>Page 64</label>
+    <file id="098_016_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2239134">
+      <checksum type="md5">aaace25cfeae3fba2c78e81f5d076c3e</checksum>
+      <checksum type="sha1">7ce5412a80b45cd05ad365b99e9ada8f5f0f538d</checksum>
+      <imageData height="5428" width="6368"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_65" sequence="65" type="page">
+    <label>Page 65</label>
+    <file id="098_017_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2326228">
+      <checksum type="md5">a39d3a0ebcad41b99d05edacff2623cd</checksum>
+      <checksum type="sha1">d09d4521e2607e4d7fdbd4c8d42d195b85480cd0</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_66" sequence="66" type="page">
+    <label>Page 66</label>
+    <file id="098_017_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2367215">
+      <checksum type="md5">4e77b8a852dff956542f7a81a9a3cc57</checksum>
+      <checksum type="sha1">1b17c50e55f4d0c8863aa9b800bd7fc1d808e401</checksum>
+      <imageData height="5428" width="6464"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_67" sequence="67" type="page">
+    <label>Page 67</label>
+    <file id="098_017_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2313517">
+      <checksum type="md5">a373e2b5658b81a18f2ebf19b456ee79</checksum>
+      <checksum type="sha1">f3f2210f27e00593c7cfd4384219b9e46d06b686</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_68" sequence="68" type="page">
+    <label>Page 68</label>
+    <file id="098_017_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2064010">
+      <checksum type="md5">f705a23b460db530c371a3474323d208</checksum>
+      <checksum type="sha1">29a193f5f2b7bdaec0be98517f05992924c39b40</checksum>
+      <imageData height="5428" width="6408"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_69" sequence="69" type="page">
+    <label>Page 69</label>
+    <file id="098_018_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2757983">
+      <checksum type="md5">d21535db2a3d69db78b32e1110cbcee9</checksum>
+      <checksum type="sha1">0f5c0e46557c420b577b860817116b5ad8f44d73</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_70" sequence="70" type="page">
+    <label>Page 70</label>
+    <file id="098_018_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2836147">
+      <checksum type="md5">59f6c8223b8639501ba5a105887d0adb</checksum>
+      <checksum type="sha1">2a8a6e4783fa316fa558a4b90c8d30cf9d6d83a0</checksum>
+      <imageData height="5428" width="6424"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_71" sequence="71" type="page">
+    <label>Page 71</label>
+    <file id="098_018_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2353213">
+      <checksum type="md5">78958ff9b56f939cff6cb96ebdb040f9</checksum>
+      <checksum type="sha1">7f4b7dbc53b64c5a83fc07c9df2d6e15097faa4c</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_72" sequence="72" type="page">
+    <label>Page 72</label>
+    <file id="098_018_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2437277">
+      <checksum type="md5">8d47dce980b064646702448e28b234dd</checksum>
+      <checksum type="sha1">852265fec0f9c1290a1ed0e3e626debe0a9be1f3</checksum>
+      <imageData height="5428" width="6312"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_73" sequence="73" type="page">
+    <label>Page 73</label>
+    <file id="098_019_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2917663">
+      <checksum type="md5">a13f973fe6755a83c9eafddd520bdcf6</checksum>
+      <checksum type="sha1">b153678df7735d0657ad3177dae4e0d95f04ccf4</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_74" sequence="74" type="page">
+    <label>Page 74</label>
+    <file id="098_019_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3184696">
+      <checksum type="md5">7877e61470919d0ff045eb7e275bccf6</checksum>
+      <checksum type="sha1">b1201cf4a7917ee14026b84a2e6da95f056f8896</checksum>
+      <imageData height="5428" width="6360"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_75" sequence="75" type="page">
+    <label>Page 75</label>
+    <file id="098_019_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2157714">
+      <checksum type="md5">95293589cbc087804c66e55e7f28836f</checksum>
+      <checksum type="sha1">021fcc0d731eef51ad048b5a67c5194074eb152a</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_76" sequence="76" type="page">
+    <label>Page 76</label>
+    <file id="098_019_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2011179">
+      <checksum type="md5">352f7ba7164665e5c01c2fafe68e51d2</checksum>
+      <checksum type="sha1">d104d6681978a88bb80b88cfb770d77f092ad8cf</checksum>
+      <imageData height="5428" width="6240"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_77" sequence="77" type="page">
+    <label>Page 77</label>
+    <file id="098_020_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4114754">
+      <checksum type="md5">24c060102f9a3b062d29a00745f2c55b</checksum>
+      <checksum type="sha1">1e72a82384d0239cac96362935d4a2e74a5b425b</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_78" sequence="78" type="page">
+    <label>Page 78</label>
+    <file id="098_020_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="4394106">
+      <checksum type="md5">12d6cb0ef7ab11a443275efc09ab52e2</checksum>
+      <checksum type="sha1">6bc449168c73106d89db0eac9d940f177fefe3f6</checksum>
+      <imageData height="5428" width="6384"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_79" sequence="79" type="page">
+    <label>Page 79</label>
+    <file id="098_020_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2834571">
+      <checksum type="md5">c4902d518e0e635a580cdc22c92662f6</checksum>
+      <checksum type="sha1">78f2d3bf21aa206273d1af6bd9e1ec3a824e4b0e</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_80" sequence="80" type="page">
+    <label>Page 80</label>
+    <file id="098_020_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2944772">
+      <checksum type="md5">47db9e7222f57af135acd6b311c0c53d</checksum>
+      <checksum type="sha1">b9ff905a7483bbf932015580b8ef3335a44e14ad</checksum>
+      <imageData height="5428" width="6248"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_81" sequence="81" type="page">
+    <label>Page 81</label>
+    <file id="098_021_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3436163">
+      <checksum type="md5">33288cef1e0e8e2eef12163271c10f94</checksum>
+      <checksum type="sha1">6493305902ae463c1310b7508acbc00341d8fc07</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_82" sequence="82" type="page">
+    <label>Page 82</label>
+    <file id="098_021_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3872263">
+      <checksum type="md5">13d357215e85c0529b0a39e34d4cb272</checksum>
+      <checksum type="sha1">2314e56839f22afa1abe0245cf74ccf24912c334</checksum>
+      <imageData height="5428" width="6432"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_83" sequence="83" type="page">
+    <label>Page 83</label>
+    <file id="098_021_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2688238">
+      <checksum type="md5">a2bb5f26e91ac0f7969855d52f56b6bd</checksum>
+      <checksum type="sha1">37c2102312c96080016140591dfb40400966c81a</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_84" sequence="84" type="page">
+    <label>Page 84</label>
+    <file id="098_021_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2596049">
+      <checksum type="md5">1998fb2192981e1aef2d0615c1383c0a</checksum>
+      <checksum type="sha1">4d4f617d6cfe08637f58ba4f690ab78d040f7268</checksum>
+      <imageData height="5428" width="6296"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_85" sequence="85" type="page">
+    <label>Page 85</label>
+    <file id="098_022_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3085453">
+      <checksum type="md5">217183d199aa41f1bfc7430d2f84cea0</checksum>
+      <checksum type="sha1">7331d8e082e0cc91b3329fa570b575d8ee5c5234</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_86" sequence="86" type="page">
+    <label>Page 86</label>
+    <file id="098_022_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3210882">
+      <checksum type="md5">75b76666a59a6c92a340da3b004a6d4b</checksum>
+      <checksum type="sha1">26676533c92ed0ce66bd2f55d8bbfce42bd96195</checksum>
+      <imageData height="5428" width="6488"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_87" sequence="87" type="page">
+    <label>Page 87</label>
+    <file id="098_022_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2737718">
+      <checksum type="md5">85c1cae1967230912639b3b513ddd51d</checksum>
+      <checksum type="sha1">f437c263598046bad0a8df92be080c9b3f30eef2</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_88" sequence="88" type="page">
+    <label>Page 88</label>
+    <file id="098_022_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2763307">
+      <checksum type="md5">6c8a9a7fed710843f465b7df28ac33ba</checksum>
+      <checksum type="sha1">615188d42ff4863c7f111c7eef27fac056f9ca81</checksum>
+      <imageData height="5428" width="6344"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_89" sequence="89" type="page">
+    <label>Page 89</label>
+    <file id="098_023_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2751616">
+      <checksum type="md5">d0556763175481021b5b143dcef8f083</checksum>
+      <checksum type="sha1">2ceb60bc3597f44ee8ed988f95ff19bd9476c15b</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_90" sequence="90" type="page">
+    <label>Page 90</label>
+    <file id="098_023_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2588907">
+      <checksum type="md5">f3203ba03f639fa4061d0ba0ccbb80d0</checksum>
+      <checksum type="sha1">f8fbcc733163aef679088af133c377767ed2b4cd</checksum>
+      <imageData height="5428" width="6416"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_91" sequence="91" type="page">
+    <label>Page 91</label>
+    <file id="098_023_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2355586">
+      <checksum type="md5">b72ecd4e6dc2cee7ae9bf6c4273e45a4</checksum>
+      <checksum type="sha1">07876a47548b46bd18a71da8910b03f0d214eac1</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_92" sequence="92" type="page">
+    <label>Page 92</label>
+    <file id="098_023_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2738163">
+      <checksum type="md5">bcdc1b6549d90cea2988cf9158747e44</checksum>
+      <checksum type="sha1">46b8c5e74b886c3835a3fffbc40707156ac1eeb7</checksum>
+      <imageData height="5428" width="6344"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_93" sequence="93" type="page">
+    <label>Page 93</label>
+    <file id="098_024_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3356737">
+      <checksum type="md5">e538686fa4a856c478d3000600896ee1</checksum>
+      <checksum type="sha1">75dade4b04f92dba1581799be036694583b8afe7</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_94" sequence="94" type="page">
+    <label>Page 94</label>
+    <file id="098_024_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3620458">
+      <checksum type="md5">4008697a945965f6b42fe3a16743a70b</checksum>
+      <checksum type="sha1">102c15ab0641d28698899b04de83673501f1cc90</checksum>
+      <imageData height="5428" width="6392"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_95" sequence="95" type="page">
+    <label>Page 95</label>
+    <file id="098_024_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2857382">
+      <checksum type="md5">f0008a0aff8bb0992b21d21aba80565b</checksum>
+      <checksum type="sha1">32d3c81f022d61592401f305ebf350e2e8a8e3ef</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_96" sequence="96" type="page">
+    <label>Page 96</label>
+    <file id="098_024_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2897866">
+      <checksum type="md5">1b7ad66d5954889ef74597a74dcf03fa</checksum>
+      <checksum type="sha1">6be456702df00f878a990dac85c0cc543ddbe74c</checksum>
+      <imageData height="5428" width="6256"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_97" sequence="97" type="page">
+    <label>Page 97</label>
+    <file id="098_025_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2892668">
+      <checksum type="md5">54b5e2acfbbde37d01232cd2f17c34c5</checksum>
+      <checksum type="sha1">b26cb70db583e693dafc4d705bfd869a2007cefd</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_98" sequence="98" type="page">
+    <label>Page 98</label>
+    <file id="098_025_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2691156">
+      <checksum type="md5">9fd4e7318f0b423d3a274c539d56c9ac</checksum>
+      <checksum type="sha1">1c2c48bfcd3cf0a16166b9b6e6e4ac8855058deb</checksum>
+      <imageData height="5428" width="6480"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_99" sequence="99" type="page">
+    <label>Page 99</label>
+    <file id="098_025_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3128118">
+      <checksum type="md5">f5c96b10aa960135dbe71b235c210740</checksum>
+      <checksum type="sha1">11d6dc76f58ed849fea13a964b8ffc00ceb497cb</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_100" sequence="100" type="page">
+    <label>Page 100</label>
+    <file id="098_025_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3183945">
+      <checksum type="md5">6dec0f36a7ed37c0c798a15bc2e4c683</checksum>
+      <checksum type="sha1">e3217fe42fa75fb5c592b8062f1113d1e9a2bc0c</checksum>
+      <imageData height="5428" width="6320"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_101" sequence="101" type="page">
+    <label>Page 101</label>
+    <file id="098_026_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3151737">
+      <checksum type="md5">0088a53734c19771fec88d9008b58630</checksum>
+      <checksum type="sha1">9f59de8d7dccca30474d0e555b591a33a2cc788b</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_102" sequence="102" type="page">
+    <label>Page 102</label>
+    <file id="098_026_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2945605">
+      <checksum type="md5">aaa85f49a60f2fe7afce08f02f975ae8</checksum>
+      <checksum type="sha1">11deebb404ec4a46b9fc019de1c3b671426fffe4</checksum>
+      <imageData height="5428" width="6496"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_103" sequence="103" type="page">
+    <label>Page 103</label>
+    <file id="098_026_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2817728">
+      <checksum type="md5">2515f52d85decbaa2780463512cc0f8b</checksum>
+      <checksum type="sha1">ff468bd2337fb20d8981d00cb47d9d63880cc6f9</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_104" sequence="104" type="page">
+    <label>Page 104</label>
+    <file id="098_026_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3118636">
+      <checksum type="md5">325888bb969ce4ebb12e756de8f73b30</checksum>
+      <checksum type="sha1">4edda02f624db097b49ff83d60e1f8221f6c86f4</checksum>
+      <imageData height="5428" width="6448"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_105" sequence="105" type="page">
+    <label>Page 105</label>
+    <file id="098_027_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2945738">
+      <checksum type="md5">259c57572f0ae4501b900dbc7c9eeade</checksum>
+      <checksum type="sha1">b266fa5629afcb0c945214b54a9017d7442269f5</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_106" sequence="106" type="page">
+    <label>Page 106</label>
+    <file id="098_027_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2970057">
+      <checksum type="md5">cddac8cd2d3d0b7b444aca446d4ddf18</checksum>
+      <checksum type="sha1">9a0d45400b5b71b557510817f4aafd5cb369c658</checksum>
+      <imageData height="5428" width="6488"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_107" sequence="107" type="page">
+    <label>Page 107</label>
+    <file id="098_027_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2540940">
+      <checksum type="md5">2a506ab2f003283cbf1a075f549fe131</checksum>
+      <checksum type="sha1">0faa67c7e54ea6bcf76fc12903df8fc658e21141</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_108" sequence="108" type="page">
+    <label>Page 108</label>
+    <file id="098_027_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2575210">
+      <checksum type="md5">e4c9e099639e64f13d830b425b5e25c1</checksum>
+      <checksum type="sha1">363ba8de0627abca368a8d0dce73761c214ae362</checksum>
+      <imageData height="5428" width="6384"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_109" sequence="109" type="page">
+    <label>Page 109</label>
+    <file id="098_028_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2614764">
+      <checksum type="md5">457bb526e911239ce037c98a364ae076</checksum>
+      <checksum type="sha1">36db5d4b49fa6fdf743ecee07d8f7bfe1b3b91f0</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_110" sequence="110" type="page">
+    <label>Page 110</label>
+    <file id="098_028_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2606075">
+      <checksum type="md5">9d0f2e4daf845edd7890d43b17eb7200</checksum>
+      <checksum type="sha1">5aa4687537b697953d257e34b70420df0f7fd951</checksum>
+      <imageData height="5428" width="6440"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_111" sequence="111" type="page">
+    <label>Page 111</label>
+    <file id="098_028_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3300133">
+      <checksum type="md5">2c16980ff80e07d0ae5b90207a0f2af5</checksum>
+      <checksum type="sha1">2d89ec88c8da58c6e316c99f5d49b71bee92a318</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_112" sequence="112" type="page">
+    <label>Page 112</label>
+    <file id="098_028_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2971494">
+      <checksum type="md5">3a288dbff006f256e75f034fbd0d02bd</checksum>
+      <checksum type="sha1">638a06396b43938c7065d3062acad438cc694871</checksum>
+      <imageData height="5428" width="6312"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_113" sequence="113" type="page">
+    <label>Page 113</label>
+    <file id="098_029_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2912541">
+      <checksum type="md5">fe5aa9e1dc240204bef7ed3e18087847</checksum>
+      <checksum type="sha1">0a022889e063f2c717957bd18535cc6e33e6ec5a</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_114" sequence="114" type="page">
+    <label>Page 114</label>
+    <file id="098_029_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3125670">
+      <checksum type="md5">c416e0d6a6bd2db82a3b9052f16db6bc</checksum>
+      <checksum type="sha1">ceeff7ce1020888e09e59b249f0b43cb0852d396</checksum>
+      <imageData height="5428" width="6368"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_115" sequence="115" type="page">
+    <label>Page 115</label>
+    <file id="098_029_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2878278">
+      <checksum type="md5">1c622f2bdd06716da55d497d6fe52833</checksum>
+      <checksum type="sha1">babf83dff3cffcbc3d323efeb7881a9e137381f1</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_116" sequence="116" type="page">
+    <label>Page 116</label>
+    <file id="098_029_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2674668">
+      <checksum type="md5">6cc25df74f895f4d1a30cc95fa18e8e9</checksum>
+      <checksum type="sha1">57d42e12c1f806a0fc4bb1f417340d25244978c6</checksum>
+      <imageData height="5428" width="6376"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_117" sequence="117" type="page">
+    <label>Page 117</label>
+    <file id="098_030_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2579205">
+      <checksum type="md5">3df1a5d3ddad7d70dce25ca2cad11f2f</checksum>
+      <checksum type="sha1">9c80c777c00096158a45d968265e20a660ec9da9</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_118" sequence="118" type="page">
+    <label>Page 118</label>
+    <file id="098_030_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2486826">
+      <checksum type="md5">c8fe4bfc25ea1a6bbcfb4c9ffd1efdc7</checksum>
+      <checksum type="sha1">1554c87a6553dd299a8076d651962ee6ac23bfc8</checksum>
+      <imageData height="5428" width="6392"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_119" sequence="119" type="page">
+    <label>Page 119</label>
+    <file id="098_030_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3279035">
+      <checksum type="md5">738b24205cf1c4e4e3a0cb01437a0ba0</checksum>
+      <checksum type="sha1">1b0d7e501f767b6ca5f6eeb5a352f8728521639e</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_120" sequence="120" type="page">
+    <label>Page 120</label>
+    <file id="098_030_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="3496560">
+      <checksum type="md5">e7bac509664141d7625d8d19e0250d63</checksum>
+      <checksum type="sha1">735a4057d5a87000b0d4deca319ff4155c7a6381</checksum>
+      <imageData height="5428" width="6272"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_121" sequence="121" type="page">
+    <label>Page 121</label>
+    <file id="098_031_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2406238">
+      <checksum type="md5">69b68946613375c7b2fdcdde04f9356f</checksum>
+      <checksum type="sha1">6e929274af94142057dd15d2f1537c0370e1b36b</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_122" sequence="122" type="page">
+    <label>Page 122</label>
+    <file id="098_031_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2291047">
+      <checksum type="md5">2e8f36722f6ce3f40dfbff253f235e5e</checksum>
+      <checksum type="sha1">bb8b8728de391bb88f9b5da70db1044f93dc265c</checksum>
+      <imageData height="5428" width="6416"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_123" sequence="123" type="page">
+    <label>Page 123</label>
+    <file id="098_031_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2206192">
+      <checksum type="md5">96697420b6e37c834f2a8d5cffa74b51</checksum>
+      <checksum type="sha1">322f51dca57d1c4fa8415c31b63df10e4457b09e</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_124" sequence="124" type="page">
+    <label>Page 124</label>
+    <file id="098_031_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2077507">
+      <checksum type="md5">a9926ebed451a792535f474c8cb2a91f</checksum>
+      <checksum type="sha1">84912be1c710171a862b01bdddd69051a8479921</checksum>
+      <imageData height="5428" width="6280"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_125" sequence="125" type="page">
+    <label>Page 125</label>
+    <file id="098_032_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2135737">
+      <checksum type="md5">b55e8ff87963f5a2c4d4f263808065c3</checksum>
+      <checksum type="sha1">61f416f5abf654a88fb733d54ebf591843fec6c8</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_126" sequence="126" type="page">
+    <label>Page 126</label>
+    <file id="098_032_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2065094">
+      <checksum type="md5">03eb047d1a319faf50ebc4672657b00f</checksum>
+      <checksum type="sha1">ede5852bff2099e0f4e66e39bd9388e72107aea6</checksum>
+      <imageData height="5428" width="6336"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_127" sequence="127" type="page">
+    <label>Page 127</label>
+    <file id="098_032_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2261805">
+      <checksum type="md5">9fe5b0aa4193e45522d6f909efe4f84d</checksum>
+      <checksum type="sha1">17f38112e31811509c22bc0923968d0166b0f576</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_128" sequence="128" type="page">
+    <label>Page 128</label>
+    <file id="098_032_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2392408">
+      <checksum type="md5">b9f0a0674298b8dc6035c061f736b7da</checksum>
+      <checksum type="sha1">1cedcb27b43c91fc6238bc19357734c8cfda41bb</checksum>
+      <imageData height="5428" width="6296"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_129" sequence="129" type="page">
+    <label>Page 129</label>
+    <file id="098_033_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2171189">
+      <checksum type="md5">0f085cbb8dc893ded001fad045052a6c</checksum>
+      <checksum type="sha1">80230079804493a01cb4d985ccf9b4708608284f</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_130" sequence="130" type="page">
+    <label>Page 130</label>
+    <file id="098_033_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="1987791">
+      <checksum type="md5">93589342464850925b728bd862957b18</checksum>
+      <checksum type="sha1">78ab86946f76f6154db8a90bf48c51f482711c55</checksum>
+      <imageData height="5428" width="6320"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_131" sequence="131" type="page">
+    <label>Page 131</label>
+    <file id="098_033_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2471554">
+      <checksum type="md5">576358262270f5a327513cf2433d1205</checksum>
+      <checksum type="sha1">4fd063e6373f069103ec73457ffc9c6a21cc0352</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_132" sequence="132" type="page">
+    <label>Page 132</label>
+    <file id="098_033_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2057431">
+      <checksum type="md5">ef5922bc321044ac5881df63d0282d43</checksum>
+      <checksum type="sha1">2077ca73bae9678f1474bdb9c10b88b4b57f9de4</checksum>
+      <imageData height="5428" width="6272"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_133" sequence="133" type="page">
+    <label>Page 133</label>
+    <file id="098_034_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="1935629">
+      <checksum type="md5">3bf32fec889639f69195f447294a8044</checksum>
+      <checksum type="sha1">293b8b289ee4346f8ac58f86922ada6ba7cbebd8</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_134" sequence="134" type="page">
+    <label>Page 134</label>
+    <file id="098_034_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="1851782">
+      <checksum type="md5">3887b09cd24f269236cbbd01f91e77fd</checksum>
+      <checksum type="sha1">d531bf484dc408933ea9148c4421c47aa5e6abaf</checksum>
+      <imageData height="5428" width="6288"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_135" sequence="135" type="page">
+    <label>Page 135</label>
+    <file id="098_034_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2313560">
+      <checksum type="md5">75ec134b9faf409e42e2016bfeb4add3</checksum>
+      <checksum type="sha1">6042754cbe6ba7be3303a5ba022fa9bb6b19aa9e</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_136" sequence="136" type="page">
+    <label>Page 136</label>
+    <file id="098_034_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2212991">
+      <checksum type="md5">351db18eb4ccebc32cd2a6e9c2b08c98</checksum>
+      <checksum type="sha1">5cb66c8990280db8dcf7e177e41ec273983dacff</checksum>
+      <imageData height="5428" width="6272"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_137" sequence="137" type="page">
+    <label>Page 137</label>
+    <file id="098_035_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2755444">
+      <checksum type="md5">3a7baccc59403446f7e2d01f6030e080</checksum>
+      <checksum type="sha1">af187520978d1ee50ce7d34a503b34073a74822d</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_138" sequence="138" type="page">
+    <label>Page 138</label>
+    <file id="098_035_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2886855">
+      <checksum type="md5">d0f0a0ad527bf6035d83357411a2d64e</checksum>
+      <checksum type="sha1">2a79f69ec00832af5e01d2912114ad569c52f6b6</checksum>
+      <imageData height="5428" width="6312"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_139" sequence="139" type="page">
+    <label>Page 139</label>
+    <file id="098_035_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2154130">
+      <checksum type="md5">60ab85f58b163d847288d3ffac2e526e</checksum>
+      <checksum type="sha1">6cd1819fa43aaa6146ffa761d3cb85e399916c48</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_140" sequence="140" type="page">
+    <label>Page 140</label>
+    <file id="098_035_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2089659">
+      <checksum type="md5">abddc9d7c83488b59514e5e0716511c3</checksum>
+      <checksum type="sha1">da67c2c9cf0bd32bf3975269d3a88919cc88abe9</checksum>
+      <imageData height="5428" width="6192"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_141" sequence="141" type="page">
+    <label>Page 141</label>
+    <file id="098_036_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2587810">
+      <checksum type="md5">a689cd3855d07485bc5e5f1fb14fd5ec</checksum>
+      <checksum type="sha1">01850bea9d57949489626bbe6e75c388ac22b938</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_142" sequence="142" type="page">
+    <label>Page 142</label>
+    <file id="098_036_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2700122">
+      <checksum type="md5">e655b92e370a27ad79b4b19697fd94be</checksum>
+      <checksum type="sha1">e83ff855c831dc0221dea059a005c4fccc020ed3</checksum>
+      <imageData height="5428" width="6320"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_143" sequence="143" type="page">
+    <label>Page 143</label>
+    <file id="098_036_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2871664">
+      <checksum type="md5">2d3acd5bcde9ba245ad0d2574e5ea055</checksum>
+      <checksum type="sha1">8af9f74e3d221a267b79b598a8cae3858e52329f</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_144" sequence="144" type="page">
+    <label>Page 144</label>
+    <file id="098_036_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2750385">
+      <checksum type="md5">0cbe80dbfab1c3e7bafcdbea65fdb0bb</checksum>
+      <checksum type="sha1">6dab7be2019ad785194e6da740077aea20256aae</checksum>
+      <imageData height="5428" width="6168"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_145" sequence="145" type="page">
+    <label>Page 145</label>
+    <file id="098_037_D_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2278375">
+      <checksum type="md5">acca6ac8c7727402a8e0bc5fcef36232</checksum>
+      <checksum type="sha1">8594628f098f8d9c05d6eb3756fe22ea1737803a</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_146" sequence="146" type="page">
+    <label>Page 146</label>
+    <file id="098_037_D_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="2312202">
+      <checksum type="md5">9f20e619c7f92480b15faf43f26df1ae</checksum>
+      <checksum type="sha1">5b37991f6265f9ee240ef2e8553c1b65c52c9822</checksum>
+      <imageData height="5428" width="6224"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_147" sequence="147" type="page">
+    <label>Page 147</label>
+    <file id="098_037_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="1450922">
+      <checksum type="md5">55eb1ae7adcb3751e4a55638689bf307</checksum>
+      <checksum type="sha1">1595f626f9deb8a38d53e1a7f4487690d3e83e10</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_148" sequence="148" type="page">
+    <label>Page 148</label>
+    <file id="098_037_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="1173455">
+      <checksum type="md5">3946d361abb7c484663e8485f4124b3f</checksum>
+      <checksum type="sha1">af180cc9eca90c0c532831acf99ecd6375ade2c5</checksum>
+      <imageData height="5428" width="6120"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_149" sequence="149" type="page">
+    <label>Page 149</label>
+    <file id="098_038_M_NC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="986489">
+      <checksum type="md5">d46f50325d1e01840d9957be073f3012</checksum>
+      <checksum type="sha1">25813f0de0ea6a7a51ebe5888597f00d8e31a50e</checksum>
+      <imageData height="5428" width="7230"/>
+    </file>
+  </resource>
+  <resource id="rv963gj5282_150" sequence="150" type="page">
+    <label>Page 150</label>
+    <file id="098_038_M_TC_46.jp2" mimetype="image/jp2" preserve="no" publish="yes" shelve="yes" size="800983">
+      <checksum type="md5">30895d7983427d8a29d3d59473ff732d</checksum>
+      <checksum type="sha1">df82d49aa38edc7b9284a55785c2d1cdaa5bd31e</checksum>
+      <imageData height="5428" width="6088"/>
+    </file>
+  </resource>
+</contentMetadata>
