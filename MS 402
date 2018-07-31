@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/am2539/Parker-Test-Environment/worc4635-ToC-updates/MS%20402",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/manifest.json",
   "@type": "sc:Manifest",
   "label": "Cambridge, Corpus Christi College, MS 402: Ancrene Wisse",
   "attribution": "© the Master and Fellows of Corpus Christi College, Cambridge. Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
