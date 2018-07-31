@@ -6974,7 +6974,7 @@
     {
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r1",
       "@type": "sc:Range",
-      "label": "Ancrene Wisse",
+      "label": "Preface",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-15",
@@ -6984,6 +6984,15 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-19",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-20",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-21",
+        "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-22",
+        ]
+        }
+         {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r2",
+      "@type": "sc:Range",
+      "label": "Part 1",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-22",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-23",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-24",
@@ -7000,6 +7009,9 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-35",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-36",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-37",
+        ]
+        }
+        
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-38",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-39",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-40",
