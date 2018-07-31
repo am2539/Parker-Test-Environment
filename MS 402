@@ -7011,7 +7011,12 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-37",
         ]
         }
-        
+         {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r3",
+      "@type": "sc:Range",
+      "label": "Part 2",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-38",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-39",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-40",
@@ -7052,6 +7057,15 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-75",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-76",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-77",
+        ]
+        }
+        {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r4",
+      "@type": "sc:Range",
+      "label": "Part 3",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-77",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-78",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-79",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-80",
@@ -7082,6 +7096,15 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-105",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-106",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-107",
+        "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-108",
+        ]
+        }
+         {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r5",
+      "@type": "sc:Range",
+      "label": "Part 4",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-108",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-109",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-110",
@@ -7150,6 +7173,15 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-173",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-174",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-175",
+        ]
+        }
+        {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r6",
+      "@type": "sc:Range",
+      "label": "Part 5",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-175",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-176",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-177",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-178",
@@ -7176,6 +7208,15 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-199",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-200",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-201",
+        ]
+        }
+        {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r7",
+      "@type": "sc:Range",
+      "label": "Part 6",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-201",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-202",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-203",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-204",
@@ -7195,6 +7236,14 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-218",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-219",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-220",
+        ]
+        }
+         {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r8",
+      "@type": "sc:Range",
+      "label": "Part 7",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-221",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-222",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-223",
@@ -7209,6 +7258,15 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-232",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-233",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-234",
+        "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-235",
+        ]
+        }
+        {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r9",
+      "@type": "sc:Range",
+      "label": "Part 8",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-235",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-236",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-237",
@@ -7225,7 +7283,5 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-248",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-249",
         "https://dms-data.stanford.edu/data/manifests/Parker/zh635rv2202/canvas/canvas-250"
-      ]
-    }
   ]
 }
