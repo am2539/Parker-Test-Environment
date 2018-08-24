@@ -8919,7 +8919,7 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "@type": "sc:Range",
       "label": "Geoffrey Chaucer, Troilus and Criseyde",
-      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r0",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-16",
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-17",
@@ -9225,7 +9225,7 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r2",
       "@type": "sc:Range",
       "label": "Book One",
-      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r0",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-17",
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-18",
@@ -9283,7 +9283,7 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r3",
       "@type": "sc:Range",
       "label": "Book Two",
-      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r0",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "canvases": [
     "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-67",
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-68",
@@ -9363,7 +9363,7 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r4",
       "@type": "sc:Range",
       "label": "Book Three",
-      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r0",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-139",
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-140",
@@ -9432,7 +9432,7 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r5",
       "@type": "sc:Range",
       "label": "Book Four",
-      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r0",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-200",
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-201",
@@ -9491,7 +9491,7 @@
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r6",
       "@type": "sc:Range",
       "label": "Book Five",
-      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r0",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/range/r1",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-252",
         "https://dms-data.stanford.edu/data/manifests/Parker/dh967mz5785/canvas/canvas-253",
