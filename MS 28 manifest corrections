@@ -1241,25 +1241,25 @@
             }
           ]
         },
-        {
+                {
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-45",
           "@type": "sc:Canvas",
-          "label": "f. 21r",
-          "height": 8994,
-          "width": 5479,
+          "label": "f. 21v",
+          "height": 8469,
+          "width": 4934,
           "images": [
             {
               "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/imageanno/anno-45",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982/028_21_R_TC_46/full/full/0/default.jpg",
+                "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982/028_21_V_TC_46/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 8994,
-                "width": 5479,
+                "height": 8469,
+                "width": 4934,
                 "service": {
-                  "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982%252F028_21_R_TC_46",
+                  "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982%252F028_21_V_TC_46",
                   "profile": "http://iiif.io/api/image/2/level1.json",
                   "@context": "http://iiif.io/api/image/2/context.json"
                 }
@@ -1271,22 +1271,22 @@
         {
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-46",
           "@type": "sc:Canvas",
-          "label": "f. 21v",
-          "height": 8469,
-          "width": 4934,
+          "label": "f. 21r",
+          "height": 8994,
+          "width": 5479,
           "images": [
             {
               "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/imageanno/anno-46",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982/028_21_V_TC_46/full/full/0/default.jpg",
+                "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982/028_21_R_TC_46/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 8469,
-                "width": 4934,
+                "height": 8994,
+                "width": 5479,
                 "service": {
-                  "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982%252F028_21_V_TC_46",
+                  "@id": "https://stacks.stanford.edu/image/iiif/sm247tk3982%252F028_21_R_TC_46",
                   "profile": "http://iiif.io/api/image/2/level1.json",
                   "@context": "http://iiif.io/api/image/2/context.json"
                 }
