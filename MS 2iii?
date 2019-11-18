@@ -7004,7 +7004,7 @@
     {
       "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/range/r1",
       "@type": "sc:Range",
-      "label": "The Bury Bible",
+      "label": "Section 1",
       "within": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/range/r0",
       "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-9",
@@ -7014,6 +7014,13 @@
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-13",
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-14",
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-15",
+          },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/range/r2",
+      "@type": "sc:Range",
+      "label": "Section 2",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/range/r0",
+      "canvases": [
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-16",
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-17",
         "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-18",
